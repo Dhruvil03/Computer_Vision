@@ -9,7 +9,8 @@ collection, maintaining traffic activities and law enforcement.
 
 # Preprocessing
 <h2><li>Gray Image</li></h2>
-![Screenshot 2024-04-19 235131](https://github.com/Dhruvil03/Automatic_Number_Plate_Detection/assets/90698427/e73b6cf7-0fd7-4194-8085-68951c1bbb46)
+![image](https://github.com/Dhruvil03/Computer_Vision/assets/90698427/e2d8ca84-9a22-4dc9-947f-c2c51f622d22)
+
 <h2><li>Detected Number Plate</li></h2>
 ![Screenshot 2024-04-20 000734](https://github.com/Dhruvil03/Automatic_Number_Plate_Detection/assets/90698427/8b98b1a4-4f60-4791-9d0f-4a60f0627b6c)
 <h2><li>Output</li></h2>
