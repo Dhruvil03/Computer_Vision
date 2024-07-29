@@ -1,0 +1,5 @@
+train: C:\Users\disha bhagat\Desktop\Dhruvil\PPE_with_mask\train
+val: C:\Users\disha bhagat\Desktop\Dhruvil\PPE_with_mask\val
+
+nc: 3
+names: ["Helmet", "Mask", "Safety_Jacket"]
